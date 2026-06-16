@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rohit Mahendhrakar
+# I'm Mahendhrakar Rohit
 
 ### Aspiring Data Analyst | Python Developer | AI & Data Science Student
 
